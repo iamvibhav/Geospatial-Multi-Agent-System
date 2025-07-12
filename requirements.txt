@@ -1,0 +1,31 @@
+# Core AI and Agent Frameworks
+smolagents[litellm]>=0.1.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Geospatial and Visualization
+plotly>=5.15.0
+geopandas>=0.13.0
+shapely>=2.0.0
+kaleido>=0.2.1
+
+# Web Scraping and Search
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Jupyter and Development
+jupyter>=1.0.0
+ipykernel>=6.25.0
+jupyter_contrib_nbextensions>=0.7.0
+
+# Utilities
+python-dotenv>=1.0.0
+typing-extensions>=4.7.0
+
+# Optional: For enhanced Jupyter experience
+jupyterlab>=4.0.0 
